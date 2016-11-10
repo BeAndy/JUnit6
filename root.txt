@@ -1,0 +1,2 @@
+c:\\Temp\\Lab6
+Root_dir
